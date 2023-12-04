@@ -42,6 +42,7 @@ With 5+ years of hands-on experience in Android app development, I specialize in
 <img src="images/PR/3.webp" width="300"  title="Stry Application">
 <img src="images/PR/4.webp" width="300"  title="Stry Application">
 </p>
+
 **Technologies & Integrations:**
 
 -   MVVM Architecture

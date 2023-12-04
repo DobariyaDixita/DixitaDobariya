@@ -34,26 +34,12 @@ With 5+ years of hands-on experience in Android app development, I specialize in
 
 **Description:** As a contributing developer to the Property Reputation mobile application, I was part of a dynamic team that implemented a feature-rich platform utilizing modern technologies to offer users a seamless experience in the real estate domain. The project was designed based on the MVVM architecture, integrating Place API, Google Maps, Pagination API, and multilingual support for English and Spanish.
 
-<p align="center">
-<img src="images/Book/1.webp" width="700"  title="Stry Application">
+<p>
+<img src="images/PR/1.webp" width="300"  title="Stry Application">
+<img src="images/PR/2.webp" width="300"  title="Stry Application">
+<img src="images/PR/3.webp" width="300"  title="Stry Application">
+<img src="images/PR/4.webp" width="300"  title="Stry Application">
 </p>
-
-<p align="center">
-<img src="images/Book/2.webp" width="700"  title="Stry Application">
-</p>
-
-<p align="center">
-<img src="images/Book/3.webp" width="700"  title="Stry Application">
-</p>
-
-<p align="center">
-<img src="images/Book/4.webp" width="700"  title="Stry Application">
-</p>
-
-<p align="center">
-<img src="images/Book/5.webp" width="700"  title="Stry Application">
-</p>
-
 **Technologies & Integrations:**
 
 -   MVVM Architecture
@@ -77,6 +63,13 @@ With 5+ years of hands-on experience in Android app development, I specialize in
 
 **Description:** As a key contributor to the Book eLibrary mobile application, I played a vital role in implementing various features and integrations to create an immersive reading experience. The project was structured around the MVVM architecture, integrating Social Sign-in, Google Drive API, Retrofit, and SQLite Database functionalities.
 
+<p>
+<img src="images/Book/1.webp" width="300"  title="Stry Application">
+<img src="images/Book/2.webp" width="300"  title="Stry Application">
+<img src="images/Book/3.webp" width="300"  title="Stry Application">
+<img src="images/Book/4.webp" width="300"  title="Stry Application">
+</p>
+
 **Technologies & Integrations:**
 
 -   MVVM Architecture
@@ -99,6 +92,14 @@ With 5+ years of hands-on experience in Android app development, I specialize in
 ## Project: Morgan IDs Mobile App**
 
 **Description:** As a key member of the development team for the Morgan IDs mobile application, I contributed to crafting a robust platform that provided users with secure and efficient access to their information. The project was structured around the MVVM architecture, integrating Retrofit, Firebase, WebView, and a Material UI design to ensure a seamless user experience.
+
+<p>
+<img src="images/Morgan/1.webp" width="300"  title="Stry Application">
+<img src="images/Morgan/2.webp" width="300"  title="Stry Application">
+<img src="images/Morgan/3.webp" width="300"  title="Stry Application">
+<img src="images/Morgan/4.webp" width="300"  title="Stry Application">
+
+</p>
 
 **Technologies & Integrations:**
 

@@ -4,6 +4,8 @@
 # Dixita Dobariya
 
 With 5+ years of hands-on experience in Android app development, I specialize in crafting robust and user-friendly mobile applications. Proficient in Java and Kotlin, I've successfully delivered projects across diverse industries, ensuring high-quality code, seamless functionalities, and an intuitive user experience. Skilled in leveraging cutting-edge tools and frameworks, I am passionate about creating innovative solutions that meet and exceed client expectations.
+
+
 <a href="mailto:dixitadobariya100@gmail.com"><img src="https://img.shields.io/badge/Email-Dixita-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dixita-dobariya-a00b041b7/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Dixita-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
